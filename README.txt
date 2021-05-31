@@ -7,6 +7,8 @@
 # Unifying-Distillation-with-Personalization-in-Federated-Learning
 Repository that contains the code for the paper titled, 'Unifying Distillation with Personalization in Federated Learning'.
 
+NOTE: The data required to run the experiments is available at https://tinyurl.com/1hp9ywfa.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 SECTION-1: SETTING UP THE ENVIRONMENT.
